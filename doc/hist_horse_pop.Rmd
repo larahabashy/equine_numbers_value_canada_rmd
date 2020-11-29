@@ -1,6 +1,7 @@
 ---
 title: "Historical horse population in Canada"
 output: github_document
+bibliography: references.bib
 ---
 
 ```{r setup, include=FALSE}
